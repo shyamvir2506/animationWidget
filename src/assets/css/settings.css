@@ -1,0 +1,23 @@
+
+
+.s-main{
+    font-size:14;
+    padding:10;
+}
+.s-animHolder{
+    padding:'0px 50px';
+    margin-top:10;
+}
+.s-preview {
+    height:260;
+    margin-top:10;
+    background:'white';
+}
+.s-animBox{
+    width:40;
+    height:40;
+    background:'red';
+}
+.s-space{
+    padding-left:5;
+}
